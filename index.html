@@ -64,18 +64,18 @@
                                 onkeydown="myFunction(event)"> </td>
                     <td><input type="button" value="." onclick="dis('.')" 
                                 onkeydown="myFunction(event)"> </td>
-                    <!-- solve function call function solve to evaluate value -->
-                    <td><input type="button" value="=" onclick="solve()"> </td>
+                    <td><input type="button" value="𝜋" onclick="dis('3.14')"> </td>
                     <td><input type="button" value="+" onclick="dis('+')" 
                                 onkeydown="myFunction(event)"> </td>
                 </tr>
                 </tbody>
                 <tbody id="lastrow">
                     <tr class="rowFive">
-                    <td><input type="button" value="𝜋" onclick="dis('3.14')" 
-                                onkeydown="myFunction(event)"> </td>
                     <!-- clr() function will call c to clear all value -->
-                    <td colspan="56" id="clear"><input id="clrbut" type="button" value="Clear" onclick="clr()"> </td>
+                    <td><input type="button" value="C" onclick="clr()" 
+                                onkeydown="myFunction(event)"> </td>
+                    <!-- solve function call function solve to evaluate value -->
+                    <td colspan="56" id="solve"><input id="eqbut" type="button" value="Solve" onclick="solve()"> </td>
                     </tbody>
                 </tr>
             </table>
