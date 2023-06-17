@@ -1,0 +1,66 @@
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 30px;
+    font-size: 44px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(90deg, rgba(1,136,15,1) 26%, rgba(102,175,120,1) 52%, rgba(231,226,255,1) 66%, rgba(103,54,238,1) 81%, rgba(55,0,208,1) 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-stroke-width: 2.8px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+.calcu {
+    margin: auto;
+    border: 2.8pt black;
+    border-style: solid;
+}
+
+input[type="text"] {
+    padding: 30px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+h1  {
+    font-size: 25px;
+}
+
+span {
+    font-size: 75px;
+    font-family: 'Rubik', sans-serif;
+    background: -webkit-linear-gradient(90deg, rgba(1,136,15,1) 26%, rgba(102,175,120,1) 52%, rgba(231,226,255,1) 66%, rgba(103,54,238,1) 81%, rgba(55,0,208,1) 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-stroke-width: 2.5px;
+    -webkit-text-stroke-color: black;
+    align-self: center;
+}
+
+div#title {
+    text-align:center;
+}
+
+header {
+    padding: 60px 80px 60px 80px;
+}
+
+footer {
+    padding-top: 60px;
+}
+
+input#clrbut {
+    padding: 20px 30px 24px 30;
+}
+
+
+
+
+
+
+
