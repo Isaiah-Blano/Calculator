@@ -1,7 +1,7 @@
 
 input[type="button"] {
     width: 100%;
-    padding: 20px 30px;
+    padding: 20px 30px 24px 30px;
     font-size: 44px;
     font-weight: 600;
     background: -webkit-linear-gradient(90deg, rgba(1,136,15,1) 26%, rgba(102,175,120,1) 52%, rgba(231,226,255,1) 66%, rgba(103,54,238,1) 81%, rgba(55,0,208,1) 90%);
